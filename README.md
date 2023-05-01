@@ -1,1 +1,1 @@
-# M.S.-Business-Analytics-Projects
+# M.S. Business-Analytics-Projects
